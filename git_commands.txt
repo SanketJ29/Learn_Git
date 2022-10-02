@@ -1,0 +1,6 @@
+Move changes from working directory to staging area - command "git add"
+To checkout old commits and naviagte in existing branches - command "git checkout"
+Create a copy of existing Git repo - command "git clone"
+Commit to project history - command "git commit"
+To explore previous revisions of project - command "git log"
+To integrate changes from divergent branches - command "git merge"
